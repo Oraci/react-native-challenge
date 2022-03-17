@@ -1,4 +1,4 @@
-# Tamanna's React Native Challenge
+# React Native Challenge
 
 This document describes the challenges that are being evaluated during the challenge. On the codebase, you will find some useful TODO comments as well.
 
