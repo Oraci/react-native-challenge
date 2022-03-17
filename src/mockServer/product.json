@@ -1,0 +1,231 @@
+[
+  {
+    "id": "ffb44697c4411a0a29e",
+    "name": "Strawberry Lip Butter",
+    "brand": "The Body Shop",
+    "minimumPrice": {
+      "amount": 3,
+      "currency": "EUR"
+    },
+    "uri": "/the+body+shop-strawberry+lip+butter-1091595.html",
+    "assets": [
+      {
+        "url": "https://cdn.tamanna.com/assets/the_body_shop/the_body_shop/products_product11091595tbsglobalproductcatalog_a5be78121be644cb93c06e4359f9627b.jpg",
+        "primary": true
+      },
+      {
+        "url": "https://cdn.tamanna.com/assets/the_body_shop/the_body_shop/product61091595tbsglobalproductcatalog_ede680877a054cd3a345ed43037b13f9.jpg",
+        "primary": false
+      }
+    ],
+    "variants": [
+      {
+        "id": "ffb44697c4411a0a29e-1",
+        "price": {
+          "amount": 3,
+          "currency": "EUR"
+        },
+        "quantity": 16,
+        "optionValues": {
+          "size": "10ml"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ff9ca9fa28834a006eb",
+    "name": "Meryem",
+    "brand": "Milano",
+    "minimumPrice": {
+      "amount": 45,
+      "currency": "EUR"
+    },
+    "uri": "/milano-meryem-h-23_0543_11.html",
+    "assets": [
+      {
+        "url": "https://cdn.tamanna.com/women-shoes/milano_milano/images_uH0oEj.jpg",
+        "primary": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "ff9ca9fa28834a006eb-1",
+        "price": {
+          "amount": 45,
+          "currency": "EUR"
+        },
+        "quantity": 0,
+        "optionValues": {
+          "size": "35",
+          "color": "brown"
+        }
+      },
+      {
+        "id": "ff9ca9fa28834a006eb-2",
+        "price": {
+          "amount": 45,
+          "currency": "EUR"
+        },
+        "quantity": 5,
+        "optionValues": {
+          "size": "38",
+          "color": "brown"
+        }
+      },
+      {
+        "id": "ff9ca9fa28834a006eb-3",
+        "price": {
+          "amount": 45,
+          "currency": "EUR"
+        },
+        "quantity": 8,
+        "optionValues": {
+          "size": "39",
+          "color": "brown"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ff1de34c6b7f9ba218f",
+    "name": "Logo Short Cozy Robe",
+    "brand": "Victoria's Secret",
+    "minimumPrice": {
+      "amount": 18,
+      "currency": "EUR"
+    },
+    "uri": "/victoria%27s+secret-logo+short+cozy+robe-1116254954A2.html",
+    "assets": [
+      {
+        "url": "https://cdn.tamanna.com/assets/victorias_secret/victorias_secret/11162549_54a2_1116254954a2_of_b.jpg",
+        "primary": false
+      },
+      {
+        "url": "https://cdn.tamanna.com/assets/victorias_secret/victorias_secret/11162549_54a2_402108kne_om_b.jpg",
+        "primary": true
+      }
+    ],
+    "variants": [
+      {
+        "id": "ff1de34c6b7f9ba218f-1",
+        "price": {
+          "amount": 24,
+          "currency": "EUR"
+        },
+        "quantity": 13,
+        "optionValues": {
+          "color": "black"
+        }
+      },
+      {
+        "id": "ff1de34c6b7f9ba218f-2",
+        "price": {
+          "amount": 18,
+          "currency": "EUR"
+        },
+        "quantity": 3,
+        "optionValues": {
+          "color": "red"
+        }
+      }
+    ]
+  },
+  {
+    "id": "ff0be8be01539d01125",
+    "name": "Adidas NMD R1.V2",
+    "brand": "Adidas Originals",
+    "minimumPrice": {
+      "amount": 50,
+      "currency": "EUR"
+    },
+    "uri": "/adidas+originals-adidas+nmd+r1.v2+-+men%27s+shoes-LF314214266604.html",
+    "assets": [
+      {
+        "url": "https://cdn.tamanna.com/assets/foot_locker/adidas_originals/314214266604_02.jpg",
+        "primary": true
+      },
+      {
+        "url": "https://cdn.tamanna.com/assets/foot_locker/adidas_originals/314214266604_05.jpg",
+        "primary": false
+      },
+      {
+        "url": "https://cdn.tamanna.com/assets/foot_locker/adidas_originals/314214266604_04.jpg",
+        "primary": false
+      }
+    ],
+    "variants": [
+      {
+        "id": "ff0be8be01539d01125-1",
+        "price": {
+          "amount": 50,
+          "currency": "EUR"
+        },
+        "quantity": 0,
+        "optionValues": {
+          "size": "40",
+          "color": "white"
+        }
+      },
+      {
+        "id": "ff0be8be01539d01125-1",
+        "price": {
+          "amount": 55,
+          "currency": "EUR"
+        },
+        "quantity": 4,
+        "optionValues": {
+          "size": "40",
+          "color": "black"
+        }
+      },
+      {
+        "id": "ff0be8be01539d01125-1",
+        "price": {
+          "amount": 50,
+          "currency": "EUR"
+        },
+        "quantity": 2,
+        "optionValues": {
+          "size": "43",
+          "color": "white"
+        }
+      },
+      {
+        "id": "ff0be8be01539d01125-1",
+        "price": {
+          "amount": 55,
+          "currency": "EUR"
+        },
+        "quantity": 0,
+        "optionValues": {
+          "size": "42",
+          "color": "black"
+        }
+      },
+      {
+        "id": "ff0be8be01539d01125-1",
+        "price": {
+          "amount": 50,
+          "currency": "EUR"
+        },
+        "quantity": 14,
+        "optionValues": {
+          "size": "41",
+          "color": "blue"
+        }
+      },
+      {
+        "id": "ff0be8be01539d01125-1",
+        "price": {
+          "amount": 50,
+          "currency": "EUR"
+        },
+        "quantity": 23,
+        "optionValues": {
+          "size": "46",
+          "color": "grey"
+        }
+      }
+    ]
+  }
+]
